@@ -8,3 +8,9 @@ The images are preprocessed and normalized before being fed into a neural networ
 The training process involves optimizing the model using the Adam optimizer and binary cross-entropy loss. After training, the model's performance is evaluated on a separate test set. Additionally, the model's effectiveness is demonstrated by predicting the defect status of custom test images, displaying the results alongside the images.
 The project aims to provide an accurate and efficient method for identifying defects in objects, potentially useful in various industrial applications.
 
+Contributors
+1) S Sajeev
+2) A prithvi
+3) D Preetham
+4) Vijay Srinivas
+5) S Dhanush
